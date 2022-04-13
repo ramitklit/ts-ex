@@ -1,6 +1,7 @@
 {
   "name": "tsex",
   "version": "1.1.0",
+  "main": "./dist/index.js",
   "author": "Ramit",
   "license": "MIT",
   "scripts": {
