@@ -1,0 +1,37 @@
+{
+  "name": "tsex",
+  "version": "1.1.0",
+  "author": "Ramit",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd --respawn --transpile-only --exit-child src/index.ts",
+    "start": "node dist/index.js",
+    "clean": "rimraf ./dist",
+    "build": "tsc && shx rm -rf dist/templates && shx cp -r src/templates dist"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "typescript",
+    "vite",
+    "javascript",
+    "templates"
+  ],
+  "devDependencies": {
+    "@types/ejs": "^3.1.0",
+    "@types/inquirer": "^8.2.1",
+    "@types/node": "^17.0.23",
+    "@types/shelljs": "^0.8.11",
+    "shx": "^0.3.4",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "inquirer": "^8.2.2",
+    "shelljs": "^0.8.5"
+  },
+  "bin": {
+    "tsex": "./dist/index.js"
+  }
+}
