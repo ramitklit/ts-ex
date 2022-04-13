@@ -11,7 +11,7 @@
     "build": "tsc && shx rm -rf dist/templates && shx cp -r src/templates dist"
   },
   "bin": {
-    "tsex": "./dist/index.js"
+    "ts-ex": "./dist/index.js"
   },
   "keywords": [
     "node",
