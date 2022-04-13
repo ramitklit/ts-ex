@@ -5,3 +5,4 @@ export interface CliOptions {
     templatePath: string;
     tartgetPath: string;
 }
+//# sourceMappingURL=index.d.ts.map
