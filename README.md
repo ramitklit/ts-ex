@@ -1,7 +1,6 @@
 # ts-ex a lightweight package bring-in npm or yarn & pnpm packager📦
 
 it is a reactjs 18 vite app frontend template and express typescript backend template with clean code and file structure generator.
-\
 
 -   try it you'll like it🤪
 
