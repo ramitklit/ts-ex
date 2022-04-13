@@ -1,5 +1,5 @@
 {
-  "name": "ts-ex",
+  "name": "@ramit_klit/ts-ex",
   "version": "1.7.0",
   "main": "./dist/index.js",
   "author": "Ramit",
