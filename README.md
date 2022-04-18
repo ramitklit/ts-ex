@@ -2,7 +2,7 @@
 
 it is a reactjs v18 vite template and express typescript backend template with clean code and file structure generator.
 
--   [Vite](https://vitejs.dev/) use HMR it's super fast than usual when create create react app.
+-   [Vite](https://vitejs.dev/) use HMR it's super fast than usual when create react app.
 -   try it you'll like it🤪
 
 ### Note
@@ -32,16 +32,14 @@ Behind the scenes, why did I **Ramit** create tsdx? beacause of 2 reasons:
 
 # UnInstallation
 
-if you don't like tsxd do this:
+if you don't like ts-ex do this:
 
 ```
 npm un -g ts-ex
 ```
 
-this command will directly uninstall **ts-ex** from your local machine yeah:(
-\
-if there is no any alert thank you for trying ts-ex: and I will you can come back and read this **Thanks you for trying ts-ex bye bye😥**
+this command will directly uninstall **ts-ex** from your local machine.
 
 ## Why named ts-ex?
 
-Haha wired name but don't be confused I means **typescript express** shhh🤭
+Haha wired name but don't be confused I means **typescript express**.
